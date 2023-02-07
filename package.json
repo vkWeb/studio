@@ -59,7 +59,7 @@
     "ajv": "^8.9.0",
     "axios": "^1.2.0",
     "broadcast-channel": "^4.17.0",
-    "codemirror": "5.58.2",
+    "codemirror": "6.0.1",
     "core-js": "^3.25.1",
     "dexie": "^3.2.2",
     "dexie-observable": "3.0.0-beta.11",
