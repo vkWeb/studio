@@ -121,7 +121,7 @@ google-cloud-core==1.7.3
     #   google-cloud-storage
 google-cloud-error-reporting==1.4.0
     # via -r requirements.in
-google-cloud-kms==1.4.0
+google-cloud-kms==2.10.0
     # via -r requirements.in
 google-cloud-logging==2.3.1
     # via google-cloud-error-reporting
@@ -174,6 +174,7 @@ packaging==20.9
     # via
     #   google-api-core
     #   google-cloud-error-reporting
+    #   google-cloud-kms
 pathlib==1.0.1
     # via -r requirements.in
 pillow==9.4.0
@@ -187,6 +188,7 @@ prompt-toolkit==3.0.23
 proto-plus==1.18.1
     # via
     #   google-cloud-error-reporting
+    #   google-cloud-kms
     #   google-cloud-logging
 protobuf==3.20.3
     # via
