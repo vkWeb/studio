@@ -172,7 +172,7 @@ libcst==0.4.9
     # via google-cloud-kms
 mypy-extensions==1.0.0
     # via typing-inspect
-newrelic==6.2.0.156
+newrelic==8.8.0
     # via -r requirements.in
 oauth2client==4.1.3
     # via -r requirements.in
