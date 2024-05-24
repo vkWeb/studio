@@ -53,7 +53,6 @@ confusable-homoglyphs==3.2.0
 django==3.2.23
     # via
     #   -r requirements.in
-    #   django-bulk-update
     #   django-db-readonly
     #   django-filter
     #   django-js-reverse
@@ -99,7 +98,6 @@ future==0.18.3
     # via -r requirements.in
 google-api-core[grpc]==1.27.0
     # via
-    #   google-api-core
     #   google-cloud-core
     #   google-cloud-error-reporting
     #   google-cloud-kms
@@ -159,7 +157,7 @@ kombu==5.2.4
     # via celery
 le-utils==0.2.1
     # via -r requirements.in
-newrelic==6.2.0.156
+newrelic==9.10.0
     # via -r requirements.in
 packaging==20.9
     # via
